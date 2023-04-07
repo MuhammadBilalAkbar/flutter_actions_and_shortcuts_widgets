@@ -51,7 +51,8 @@
 
 **Problems from Flutter Stackoverflow**
 
--
+- https://stackoverflow.com/questions/61960260/how-to-handle-keyboard-shortcuts
+- https://stackoverflow.com/questions/73461691/flutter-web-shortcuts-and-action-widget-is-not-listening-the-keyboard-events-a
 
 ## 3. Video Structure
 
