@@ -129,9 +129,10 @@ class DecrementIntent extends Intent {
               child: Focus(
 ```
 
-- In child of `Actions`, define `Focus` class. Set `autofocus` property to `true`. `child` property
-  is required. `Column` is child of `Focus` widget on which we want to perform shortcuts class using
-  actions class.
+- In child of `Actions`, define `Focus` class. Set `autofocus` property to `true` to use shortcuts
+  key on the child of `Focus` widget.
+  <br/>`child` property is required. `Column` is child of `Focus` widget on which we want to perform
+  shortcuts class using actions class.
 
 ```dart 
               child: Focus(
