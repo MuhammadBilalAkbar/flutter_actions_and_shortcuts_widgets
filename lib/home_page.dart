@@ -7,7 +7,6 @@ class IncrementIntent extends Intent {
 
 class DecrementIntent extends Intent {
   const DecrementIntent();
-
 }
 
 class HomePage extends StatefulWidget {
